@@ -1,2 +1,1 @@
-# new-py
-Python
+print("hello")
